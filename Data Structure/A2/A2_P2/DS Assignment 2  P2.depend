@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1552758593 source:c:\users\1\desktop\codeblocks\ds assignment 2  p2\main.cpp
+	<iostream>
+	<map>
+	<string>
+	<iterator>
+	<bits/stdc++.h>
+
+1553867640 source:c:\users\1\desktop\codeblocks\ds assignment 2\a2_p2_20170053_20170021_20170150\main.cpp
+	<iostream>
+	<map>
+	<string>
+	<iterator>
+	<bits/stdc++.h>
+

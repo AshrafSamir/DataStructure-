@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1551541099 source:c:\users\1\desktop\codeblocks\data structure\assignment 1\p6\name\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
+1551537932 source:c:\users\1\desktop\codeblocks\data structure\assignment 1\p6\name\studentname.cpp
+	"StudentName.h"
+	<iostream>
+	<bits/stdc++.h>
+
+1551537978 c:\users\1\desktop\codeblocks\data structure\assignment 1\p6\name\studentname.h
+	<iostream>
+	<bits/stdc++.h>
+

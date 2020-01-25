@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1553871355 source:c:\users\ahmed\desktop\assignmnet2_task3\main.cpp
+	<bits/stdc++.h>
+	<fstream>
+	<cstdlib>
+	<chrono>
+	<numeric>
+
+1553899546 source:c:\users\ahmed\desktop\assignmnet2_task3-20190330t075026z-001\assignmnet2_task3\main.cpp
+	<bits/stdc++.h>
+	<fstream>
+	<cstdlib>
+	<chrono>
+	<numeric>
+

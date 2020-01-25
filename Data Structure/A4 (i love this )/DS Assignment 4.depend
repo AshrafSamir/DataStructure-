@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1556441496 source:c:\users\1\desktop\codeblocks\ds assignment 4\contact.cpp
+	"Contact.h"
+
+1556441549 c:\users\1\desktop\codeblocks\ds assignment 4\contact.h
+	"LinkedList.h"
+	"LinkedList.cpp"
+
+1556211340 c:\users\1\desktop\codeblocks\ds assignment 4\linkedlist.h
+	<iostream>
+	<bits/stdc++.h>
+
+1556438740 c:\users\1\desktop\codeblocks\ds assignment 4\linkedlist.cpp
+	"LinkedList.h"
+
+1556438740 source:c:\users\1\desktop\codeblocks\ds assignment 4\linkedlist.cpp
+	"LinkedList.h"
+
+1556559563 source:c:\users\1\desktop\codeblocks\ds assignment 4\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<iterator>
+	"Treap.h"
+	"ContactManager.h"
+
+1556442601 c:\users\1\desktop\codeblocks\ds assignment 4\treap.h
+	<bits/stdc++.h>
+
+1556559963 c:\users\1\desktop\codeblocks\ds assignment 4\treap.cpp
+	"Treap.h"
+	<bits/stdc++.h>
+
+1556559963 source:c:\users\1\desktop\codeblocks\ds assignment 4\treap.cpp
+	"Treap.h"
+	<bits/stdc++.h>
+
+1556558324 source:c:\users\1\desktop\codeblocks\ds assignment 4\contactmanager.cpp
+	"ContactManager.h"
+
+1556535347 c:\users\1\desktop\codeblocks\ds assignment 4\contactmanager.h
+	"LinkedList.h"
+	"Contact.h"
+	"Treap.h"
+	"Treap.cpp"
+	<fstream>
+	<iostream>
+

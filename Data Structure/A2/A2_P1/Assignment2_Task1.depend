@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1553940007 source:c:\users\ahmed\desktop\assignment2_task1\books.cpp
+	"Books.h"
+	<bits/stdc++.h>
+
+1553939915 c:\users\ahmed\desktop\assignment2_task1\books.h
+	<vector>
+	<bits/stdc++.h>
+	<string.h>
+
+1553940077 source:c:\users\ahmed\desktop\assignment2_task1\main.cpp
+	<bits/stdc++.h>
+	"Books.h"
+

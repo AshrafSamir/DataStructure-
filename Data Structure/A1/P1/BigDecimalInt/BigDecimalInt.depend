@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1551721510 source:c:\users\1\desktop\codeblocks\data structure\assignment 1\p1\bigdecimalint\bigint.cpp
+	"BigInt.h"
+
+1551718955 c:\users\1\desktop\codeblocks\data structure\assignment 1\p1\bigdecimalint\bigint.h
+	<bits/stdc++.h>
+
+1551721786 source:c:\users\1\desktop\codeblocks\data structure\assignment 1\p1\bigdecimalint\main.cpp
+	<iostream>
+	"BigInt.h"
+
